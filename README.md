@@ -62,6 +62,8 @@ gcc loan_emi.c -o loan_emi ./loan_emi
 Or just run directly in CodeBlocks / Dev-C++.
 
 📂 Files loan_emi.c // Main C program README.md // Project documentation
+
+
 CODE:
 <img width="1356" height="3066" alt="code 2" src="https://github.com/user-attachments/assets/124da7b4-3769-4da9-8b43-d4c06bc1c5ba" />
 
